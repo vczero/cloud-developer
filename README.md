@@ -15,7 +15,4 @@
 - [第 10 篇：再谈 云 + 端 开发模式，采用 JS-SDK 示例](https://yun.serverless80.com/posts/10.html)     
 - [第 11 篇：三个小案例](https://yun.serverless80.com/posts/11.html)      
 - [第 12 篇：附录](https://yun.serverless80.com/posts/12.html)             
-
-
-
-![](https://6f70-open-cloud-5d89b0-1300954686.tcb.qcloud.la/serverless-reading/srmsc.png)      
+   
